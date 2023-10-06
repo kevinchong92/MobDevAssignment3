@@ -103,6 +103,6 @@ In addition to the core decisions related to the app's architecture, we need to 
 
 - [Google Analytics](https://analytics.google.com/) - Information about Google Analytics for tracking user behavior.
 
-- [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image) - A React Native library for optimizing and caching images.
+- [React Native Fast Image](https://www.npmjs.com/package/react-native-fast-image?activeTab=readme) - A React Native library for optimizing and caching images.
 
-- [React Native Localization](https://github.com/stefalda/ReactNativeLocalization) - A library for React Native to support app localization.
+- [React Native Localization](https://www.npmjs.com/package/react-native-localization) - A library for React Native to support app localization.
