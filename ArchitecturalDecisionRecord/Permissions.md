@@ -79,6 +79,6 @@ The mobile app requires access to various device permissions for features such a
 
 ### Links
 
-- [Guidelines for Requesting App Permissions](https://developer.android.com/training/permissions/overview) - Android documentation on requesting app permissions for reference.
+- [Guidelines for Requesting App Permissions](https://developer.android.com/training/permissions/requesting?) - Android documentation on requesting app permissions for reference.
 
-- [iOS Human Interface Guidelines - Permissions](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/permissions/) - iOS guidelines on requesting permissions for reference.
+- [iOS Human Interface Guidelines - Privacy](https://developer.apple.com/design/human-interface-guidelines/privacy) - iOS guidelines on requesting permissions for reference.
