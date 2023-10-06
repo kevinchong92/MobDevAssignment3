@@ -1,5 +1,13 @@
 # Native, Web, or Hybrid App
 
+**Status:** Proposed
+
+**Deciders:** Kevin, Yuen Chong || Greg, Kuan-Ling Wu
+
+**Date:** 2023-10-04
+
+**Scenario 1**
+
 Contents:
 
 - [Context and Problem Statement](#context-and-problem-statement)
@@ -10,14 +18,6 @@ Contents:
 - [Negative Consequences](#negative-consequences)
 - [Pros and Cons of the Options](#pros-and-cons-of-the-options)
 - [Links](#links)
-
-**Status:** Proposed
-
-**Deciders:** Kevin, Yuen Chong || Greg, Kuan-Ling Wu
-
-**Date:** 2023-10-04
-
-**Scenario 1**
 
 ### Context and Problem Statement
 
